@@ -4,4 +4,5 @@ First Choice: 1
 Second Choice: 1
 Third Choice: 3
 Fourth Choice: 2
-Fifth Choice: ____
+Fifth Choice: 1
+Sixth Choice: 2
